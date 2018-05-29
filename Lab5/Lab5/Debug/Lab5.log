@@ -1,0 +1,9 @@
+﻿  Task.cpp
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(59): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(62): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(65): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(79): error C2784: unknown-type std::operator -(std::move_iterator<_RanIt> &,const std::move_iterator<_RanIt2> &): не удалось вывести аргумент шаблон для "std::move_iterator<_RanIt> &" из "const Rational"
+  d:\vs 2015\vc\include\xutility(2153): note:  см. объявление "std::operator -"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(79): error C2784: unknown-type std::operator -(const std::reverse_iterator<_RanIt> &,const std::reverse_iterator<_RanIt2> &): не удалось вывести аргумент шаблон для "const std::reverse_iterator<_RanIt> &" из "const Rational"
+  d:\vs 2015\vc\include\xutility(1239): note:  см. объявление "std::operator -"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 5\lab5\lab5\task.cpp(79): error C2676: бинарный "-": "const Rational" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
